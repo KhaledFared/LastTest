@@ -3,4 +3,4 @@ prefix=-
 game=by Khaledz
 stayinchannel=true
 songinstatus=true 
-token=NjYwOTE3OTI5OTM5OTU5ODQw.Xgj12g.7NBmFjYm4YWMvmnUPtdTB_48RSs
+token=NjYwOTE4OTAzOTgzMTc3Nzc4.Xgj2tw.l3FIvtPCy1RzdpFUfCZ2iiDzFr8
