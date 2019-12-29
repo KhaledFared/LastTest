@@ -1,0 +1,6 @@
+owner=526370086194511892
+prefix=-
+game=by Khaledz
+stayinchannel=true
+songinstatus=true 
+token=NjU5NzY3Mzc3NjA0Mzc4NjI1.Xgjv3w.UzvLN-q3yU5d66Z01mKeVzih_F0
